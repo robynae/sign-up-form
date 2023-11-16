@@ -105,6 +105,18 @@
     display: flex;
     flex-direction: column;
     flex: 1;
+    font-family: "Roboto", sans-serif;
+    font-size: 0.8rem;
+    font-weight: 500;
+    color: #1f2a37;
+}
+
+input {
+    height: 1.5rem;
+    font-size: 1.2rem;
+    border: 1px solid #E5E7EB;
+    border-radius: 5px;
+    background-color: #fafbfd;
 }
 
 .footer-container {
