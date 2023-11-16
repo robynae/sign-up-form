@@ -81,6 +81,30 @@
     font-weight: 500;
     padding-top: 15px;
     padding-left: 30px;
+    padding-bottom: 20px;
+}
+
+.another-container {
+    display: flex;
+    gap: 15vw;
+}
+
+.first-column, .second-column {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 30px;
+}
+
+.first-column {
+    padding-left: 30px;
+}
+
+.input {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
 }
 
 .footer-container {
