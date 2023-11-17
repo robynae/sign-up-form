@@ -84,6 +84,11 @@
     padding-bottom: 20px;
 }
 
+.required {
+    font-size: .8rem;
+    color: #57504D;
+}
+
 .another-container {
     display: flex;
     gap: 15vw;
