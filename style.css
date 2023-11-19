@@ -141,3 +141,41 @@ input:invalid:focus {
     height: 22vh;
     background-color: #fafbfd;
 }
+
+.btn-container {
+    padding-left: 30px;
+    padding-top: 30px;
+}
+
+.submit {
+    background-color: #596D48;
+    color: white;
+    width: 20%;
+    height: 50px;
+    border-radius: 5px;
+    box-shadow: none;
+    border: none;
+
+    font-size: 1.1rem;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+
+}
+
+.submit:hover {
+    background-color: #698055;
+}
+
+.footer-container > p {
+    font-size: 1.1rem;
+    font-family: "Roboto", sans-serif;
+
+    padding-left: 30px;
+    padding-top: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: #596D48;
+    font-weight: 500;
+}
